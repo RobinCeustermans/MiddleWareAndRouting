@@ -9,6 +9,7 @@ app.UseRouting();
 
 
 //use something like postman
+//in body: ?operation=multiply&num1=5&num2=6
 app.UseWhen(
     context => context.Request.Method == "POST",
     app =>
@@ -17,6 +18,7 @@ app.UseWhen(
     }
 );
 
+// -> /sum/6/5
 app.MapGet("/sum/{num1:int}/{num2:int}", async context =>
 {
     if (!context.Request.RouteValues.ContainsKey("num1") || !context.Request.RouteValues.ContainsKey("num2"))

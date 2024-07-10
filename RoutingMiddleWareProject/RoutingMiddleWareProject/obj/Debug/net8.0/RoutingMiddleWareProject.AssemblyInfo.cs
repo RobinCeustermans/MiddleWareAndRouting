@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("RoutingMiddleWareProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1dbc0440146da724ca12a042d287df5673946f81")]
 [assembly: System.Reflection.AssemblyProductAttribute("RoutingMiddleWareProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("RoutingMiddleWareProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

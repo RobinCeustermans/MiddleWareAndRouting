@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\roobi\\source\\repos\\RoutingMiddleWareProject\\RoutingMiddleWareProject\\RoutingMiddleWareProject.csproj": {}
+    "C:\\projects\\MiddleWareAndRouting\\RoutingMiddleWareProject\\RoutingMiddleWareProject\\RoutingMiddleWareProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\roobi\\source\\repos\\RoutingMiddleWareProject\\RoutingMiddleWareProject\\RoutingMiddleWareProject.csproj": {
+    "C:\\projects\\MiddleWareAndRouting\\RoutingMiddleWareProject\\RoutingMiddleWareProject\\RoutingMiddleWareProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\roobi\\source\\repos\\RoutingMiddleWareProject\\RoutingMiddleWareProject\\RoutingMiddleWareProject.csproj",
+        "projectUniqueName": "C:\\projects\\MiddleWareAndRouting\\RoutingMiddleWareProject\\RoutingMiddleWareProject\\RoutingMiddleWareProject.csproj",
         "projectName": "RoutingMiddleWareProject",
-        "projectPath": "C:\\Users\\roobi\\source\\repos\\RoutingMiddleWareProject\\RoutingMiddleWareProject\\RoutingMiddleWareProject.csproj",
+        "projectPath": "C:\\projects\\MiddleWareAndRouting\\RoutingMiddleWareProject\\RoutingMiddleWareProject\\RoutingMiddleWareProject.csproj",
         "packagesPath": "C:\\Users\\roobi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\roobi\\source\\repos\\RoutingMiddleWareProject\\RoutingMiddleWareProject\\obj\\",
+        "outputPath": "C:\\projects\\MiddleWareAndRouting\\RoutingMiddleWareProject\\RoutingMiddleWareProject\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\roobi\\source\\repos\\RoutingMiddleWareProject\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\projects\\MiddleWareAndRouting\\RoutingMiddleWareProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDAC6F4-861D-47A2-980F-CE0048E99370}|RoutingMiddleWareProject\\RoutingMiddleWareProject.csproj|c:\\projects\\middlewareandrouting\\routingmiddlewareproject\\routingmiddlewareproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBDAC6F4-861D-47A2-980F-CE0048E99370}|RoutingMiddleWareProject\\RoutingMiddleWareProject.csproj|solutionrelative:routingmiddlewareproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBDAC6F4-861D-47A2-980F-CE0048E99370}|RoutingMiddleWareProject\\RoutingMiddleWareProject.csproj|c:\\projects\\middlewareandrouting\\routingmiddlewareproject\\routingmiddlewareproject\\custommiddleware\\calculateoperationscustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBDAC6F4-861D-47A2-980F-CE0048E99370}|RoutingMiddleWareProject\\RoutingMiddleWareProject.csproj|solutionrelative:routingmiddlewareproject\\custommiddleware\\calculateoperationscustommiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CalculateOperationsCustomMiddleware.cs",
+              "DocumentMoniker": "C:\\projects\\MiddleWareAndRouting\\RoutingMiddleWareProject\\RoutingMiddleWareProject\\CustomMiddleWare\\CalculateOperationsCustomMiddleware.cs",
+              "RelativeDocumentMoniker": "RoutingMiddleWareProject\\CustomMiddleWare\\CalculateOperationsCustomMiddleware.cs",
+              "ToolTip": "C:\\projects\\MiddleWareAndRouting\\RoutingMiddleWareProject\\RoutingMiddleWareProject\\CustomMiddleWare\\CalculateOperationsCustomMiddleware.cs",
+              "RelativeToolTip": "RoutingMiddleWareProject\\CustomMiddleWare\\CalculateOperationsCustomMiddleware.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAEYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T22:19:17.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\projects\\MiddleWareAndRouting\\RoutingMiddleWareProject\\RoutingMiddleWareProject\\Program.cs",
+              "RelativeDocumentMoniker": "RoutingMiddleWareProject\\Program.cs",
+              "ToolTip": "C:\\projects\\MiddleWareAndRouting\\RoutingMiddleWareProject\\RoutingMiddleWareProject\\Program.cs",
+              "RelativeToolTip": "RoutingMiddleWareProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T22:19:08.447Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
